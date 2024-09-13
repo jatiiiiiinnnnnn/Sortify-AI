@@ -1,7 +1,9 @@
 #SortifyAI
+
 SortifyAI is an AI-powered teaching assistant designed to help students learn sorting algorithms using the Socratic method. By guiding students through a series of probing questions and hints, the assistant encourages deeper understanding of algorithms like Quicksort, Mergesort, Bubblesort, and more without directly providing answers. This approach fosters critical thinking and helps students gain confidence in problem-solving.
 
 #Table of Contents
+
 Features
 Installation
 Usage
