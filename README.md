@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sortifyai.git
+git clone https://github.com/jatiiiiiinnnnnn/sortifyai.git
 cd sortifyai
 Install the required dependencies:
 
