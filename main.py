@@ -16,7 +16,7 @@ st.set_page_config(
 with st.sidebar:
     selected = option_menu("SortifyAI",
                            ["SortifyAI"],
-                           menu_icon='robot', icons=['chat-dots-fill'],
+                           icons=['chat-dots-fill'],
                            default_index=0)
 
 # Progress tracking system
