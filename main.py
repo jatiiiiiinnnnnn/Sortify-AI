@@ -30,7 +30,7 @@ if "student_progress" not in st.session_state:
 
 # Function to dynamically generate Socratic questions based on the student's input
 def generate_socratic_question(user_prompt):
-    query = f"As a Socratic teaching assistant, ask a probing question to guide the student based on the student's input: '{user_prompt}'."
+    query = f"As a Socratic teaching assistant, ask a probing question to guide the student based on the student's input: '{user_prompt}'. The questions should be framed in such a way that they guide the student to the answer they asked"
     model_response = st.session_state.chat_session.send_message(query)
     return model_response.text.strip()
 
